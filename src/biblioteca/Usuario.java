@@ -6,5 +6,10 @@ public class Usuario {
 	private int idade;
 	private String rua;
 	
+	public void cadastrar() {
+		
+		
+	}
+	
 
 }
