@@ -11,5 +11,10 @@ public class Usuario {
 		
 	}
 	
+	public void excluir() {
+		
+		
+	}
+	
 
 }
